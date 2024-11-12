@@ -3,6 +3,11 @@
 ## Bank Loan Analysis using Power BI Report link: 
 https://app.powerbi.com/view?r=eyJrIjoiOGQwZGY3YTMtZTRlMC00NDI5LWIwZDYtOWZmMDFkYWY2NWFkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=6c17f3099907c3a51799
 
+## Technologies Used
+
+- **Power BI**: For data modeling, data visualization and reporting.
+- **Microsoft SQL Server**: For data extraction and manipulation.
+
 ## Introduction
 In today's dynamic financial environment, the capacity to effectively monitor and analyze lending activities has emerged as a critical factor for maintaining competitive advantage and building enduring customer trust. As a leader in the financial industry, Bank of America acknowledges the pivotal role that data-driven decision-making plays in the management of its loan portfolio. To thrive in this landscape, it is essential to develop tools and resources that enable precise tracking of lending performance, insightful analysis of market trends, and informed strategic planning.
 
