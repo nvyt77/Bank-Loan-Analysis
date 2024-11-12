@@ -1,6 +1,6 @@
 # Bank Loan Analysis using Power BI
 
-# Bank Loan Analysis using Power BI Report link: 
+## Bank Loan Analysis using Power BI Report link: 
 https://app.powerbi.com/view?r=eyJrIjoiOGQwZGY3YTMtZTRlMC00NDI5LWIwZDYtOWZmMDFkYWY2NWFkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=6c17f3099907c3a51799
 
 ## Introduction
