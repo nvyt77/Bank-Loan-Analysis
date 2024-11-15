@@ -21,7 +21,7 @@ The objective of the Bank Loan Report project is to develop a comprehensive and 
 - Repayment Statistics
 - Borrower Assessments
 
-By integrating critical loan-related metrics and analyzing their temporal changes, the report will facilitate a deeper understanding of the health of the loan portfolio and highlight emerging trends that can shape our lending strategies. Additionally, we aim to create a detailed **Details Dashboard** that consolidates essential loan information, offering users a holistic view of vital metrics and data points.
+By integrating critical loan-related metrics and analyzing their temporal changes, the report will facilitate a deeper understanding of the health of the loan portfolio and highlight emerging trends that can shape the lending strategies. Additionally, an aim to create a detailed **Details Dashboard** that consolidates essential loan information, offering users a holistic view of vital metrics and data points.
 
 ## Problem Statement
 Bank of America is committed to providing transparent and efficient loan services to its customers, necessitating a comprehensive analysis of its loan performance to enhance decision-making and improve lending strategies. This involves examining key performance indicators (KPIs) such as:
