@@ -7,7 +7,6 @@ https://app.powerbi.com/view?r=eyJrIjoiOGQwZGY3YTMtZTRlMC00NDI5LWIwZDYtOWZmMDFkY
 
 - **Power BI**: For data modeling, data visualization and reporting.
 - **Microsoft SQL Server**: For data extraction and manipulation.
-- **Microsoft Excel**: For data storage and initial data preparation.
 
 ## Introduction
 In today's dynamic financial environment, the capacity to effectively monitor and analyze lending activities has emerged as a critical factor for maintaining competitive advantage and building enduring customer trust. As a leader in the financial industry, Bank of America acknowledges the pivotal role that data-driven decision-making plays in the management of its loan portfolio. To thrive in this landscape, it is essential to develop tools and resources that enable precise tracking of lending performance, insightful analysis of market trends, and informed strategic planning.
